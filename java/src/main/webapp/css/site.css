@@ -1,0 +1,28 @@
+﻿/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* * {
+	background-color: #8dae19;
+	
+} */
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+body {
+	background-color: rgb(70,170,100, .2);
+}
+
+.survey-result-items {
+	background-color: rgb(70,170,100, .2);
+}
+
+#park-pics {
+	border: 10px solid white;
+}
